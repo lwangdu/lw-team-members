@@ -1,7 +1,7 @@
 {
-	"name": "lw-team-memebers",
+	"name": "lw-team-members",
 	"version": "0.1.0",
-	"description": "Example block scaffolded with Create Block tool.",
+	"description": "Grid layout team member.",
 	"author": "The WordPress Contributors",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
